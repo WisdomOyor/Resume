@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Edu VIC WA NT Beginner';
+    /* color: #0078AA; */
+    color: #00541A;
+}
+p{
+    /* color: #0078AA; */
+    color: #00541A;
+}
+.top-container{
+    /* background-color: #e4f9f5; */
+    background-color: #B0DB72;
+    height: 75vh;
+}
+.middle-container{
+    /* background-color: #73A9AD; */
+    background-color: #95CD41;
+}
+.bottom-container{
+    /* background-color: #0078AA; */
+    background-color: #00541A;
+}
