@@ -1,2 +1,2 @@
-# Personal site 1
+# Resume
 CV (Personal Site)
